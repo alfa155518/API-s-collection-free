@@ -1,6 +1,6 @@
 # Public API Lists
 
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/API-s-collection-free/stargazers)
+[![Stars](https://img.shields.io/github/stars/API-s-collection-free?style=flat-square)](https://github.com/API-s-collection-free/stargazers)
 [![Fork](https://img.shields.io/github/forks/API-s-collection-free?style=flat-square)](https://github.com/API-s-collection-free/fork)
 [![Issues](https://img.shields.io/github/issues/API-s-collection-free?style=flat-square)](https://github.com/API-s-collection-free/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/API-s-collection-free/pulls)
