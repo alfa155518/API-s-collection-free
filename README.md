@@ -1,9 +1,9 @@
 # Public API Lists
 
-[![Stars](https://img.shields.io/github/stars/API-s-collection-free?style=flat-square)](https://github.com/API-s-collection-free/stargazers)
-[![Fork](https://img.shields.io/github/forks/API-s-collection-free?style=flat-square)](https://github.com/API-s-collection-free/fork)
-[![Issues](https://img.shields.io/github/issues/API-s-collection-free?style=flat-square)](https://github.com/API-s-collection-free/issues/new)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/API-s-collection-free/pulls)
+[![Stars](https://img.shields.io/github/stars/alfa155518/API-s-collection-free?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/stargazers)
+[![Fork](https://img.shields.io/github/forks/alfa155518/API-s-collection-free?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/fork)
+[![Issues](https://img.shields.io/github/issues/alfa155518/API-s-collection-free?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/issues/new)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/pulls)
 
 A collective list of free APIs for use in software and web development.
 
