@@ -9,23 +9,23 @@ A collective list of free APIs for use in software and web development.
 
 
 
-### Animals
+### WEATHER 
 
 |                                            API                                             | Description                                 |   ApiKey | HTTPS |
 | :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
-|                  [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)                   | Daily cat facts                             |    No    |  Yes  |
-|                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr                |  `yes`   |  Yes  |
-|                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs)   |    No    |  Yes  |
-|                               [Dog API](https://dogapi.dog)                                | Fun facts on dog breeds and groups          |    No    |  Yes  |
-|                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset          |    No    |  Yes  |
-|                                 [Foxes](https://foxes.cool)                                | Random fox images with different tags       |    No    |  Yes  |
-|                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                   |    No    |  Yes  |
-|                               [HTTP Dogs](https://http.dog/)                               | Dogs for every HTTP status code             |    No    |  Yes  |
-|                      [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                      | IUCN Red List of Threatened Species         |  `yes`   |  No   |
-|                  [Movebank](https://github.com/movebank/movebank-api-doc)                  | Movement and Migration data of animals      |    No    |  Yes  |
-|                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Adoption                                    |  `yes`   |  Yes  |
-|                       [RandomBigCat](https://randombig.cat/roar.json)                      | Random pictures of big cats                 |    No    |  Yes  |
-|                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                     |    No    |  Yes  |
-|                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                    |    No    |  Yes  |
-| [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                    |    No    |  Yes  |
-|                            [Shibe.Online](http://shibe.online/)                            | Random pictures of Shibu Inu, cats or birds |    No    |  Yes  |
+|                  [wunder ground](https://www.wunderground.com/)                            | you incorporate real-time, historical,      |  `yes`   |  Yes  |
+|                            [openWeathermap](https://openweathermap.org/)                   | you incorporate real-time, historical,      |  `yes`   |  Yes  |
+|                               [weatherapi](https://www.weatherapi.com/)                    | ultimate weather and geolocation API        |  `yes`   |  Yes  |
+|                             [Easiest Weather ](https://www.visualcrossing.com/weather-api) | The Easiest Weather API                     |  `yes`   |  Yes  |
+|                              [weather bit](https://www.weatherbit.io/api/weather-current)  | The High Performance Weather API            |  `yes`   |  Yes  |
+|                                 [7Timer](http://www.7timer.info/doc.php?lang=en)           | Weather, especially for Astroweather        |  `yes`   |  No   |
+|                                [AccuWeather](https://developer.accuweather.com/apis)       | Weather and forecast data                   |  `yes`   |  No   |
+|                               [Aemet](https://opendata.aemet.es/centrodedescargas/inicio)  | Weather and forecast data from Spain        |  `yes`   |  Yes  |
+|                      [weather stack](https://weatherstack.com/)                            | Real-Time & Historical World Weather Data   |  `yes`   |  No   |
+|                  [aviation weather](https://www.aviationweather.gov/dataserver)            | NOAA aviation weather forecasts             |   No     |  Yes  |
+|                [Euskalmet](https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/) | Meteorological data of the Basque Country   |  `yes`   |  Yes  |
+|                 [open-meteo](https://open-meteo.com/)                                      | Global weather forecast API                 |    No    |  Yes  |
+|                         [Tomorrow](https://docs.tomorrow.io/)                              |Weather API Powered by Proprietary Technology|   `yes`  |  Yes  |
+|                          [weather-api](https://github.com/robertoduessmann/weather-api)    | 	A RESTful free API to check the weather    |    No    |  Yes  |
+|                          [yandex](https://yandex.com/dev/weather/)                         | Assesses weather condition                  |   `yes`  |  Yes  |
+|                            [HG Weather](https://hgbrasil.com/status/weather)               | Provides weather data for cities in Brazil  |   `yes`  |  Yes  |
