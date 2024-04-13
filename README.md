@@ -29,3 +29,34 @@ A collective list of free APIs for use in software and web development.
 |                          [weather-api](https://github.com/robertoduessmann/weather-api)    | 	A RESTful free API to check the weather    |    No    |  Yes  |
 |                          [yandex](https://yandex.com/dev/weather/)                         | Assesses weather condition                  |   `yes`  |  Yes  |
 |                            [HG Weather](https://hgbrasil.com/status/weather)               | Provides weather data for cities in Brazil  |   `yes`  |  Yes  |
+
+
+
+### NEWS 
+
+|                                            API                                             | Description                                 |   ApiKey | HTTPS |
+| :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
+|                  [New York Times](https://developer.nytimes.com/apis)                      | getting the popular articles on NYTimes.com |  `yes`   |  Yes  |
+|                            [News API](https://newsapi.org/docs)                            |  live articles from all over the web        |  `yes`   |  Yes  |
+|                               [News APi](https://newsapi.org/)                             |search for over 30,000 news sources and blogs|  `yes`   |  Yes  |
+|                          [apilayer mediastack](https://mediastack.com/)                    |Simple REST API for Live News & Blog Articles|  `yes`   |  Yes  |
+|                              [Associated Press](https://developer.ap.org/)                 | Search for news and metadata from Associated|  `yes`   |  Yes  |
+|                  [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)       | access to millions of pages of historic US  |   No     |  No   |
+|                                [currents](https://currentsapi.services/)                   |Latest news published in various news sources|  `yes`   |  No   |
+|                               [Gnews](https://gnews.io/)                                   | Search for news from various sources        |  `yes`   |  Yes  |
+|                      [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt)     | Each Country separately and Worldwide       |   No     |  No   |
+|                  [Inshorts News](https://github.com/cyberboysumanjay/Inshorts-News-API)    | Provides news from inshorts                 |   No     |  Yes  |
+|                [MarketAux](https://www.marketaux.com/)                                     |Live stock market news with tagged tickers   |  `yes`   |  Yes  |
+|                 [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/)   | Get or Search Latest Breaking News          |  `yes`   |  Yes  |
+|                         [Spaceflight News](https://spaceflightnewsapi.net/)                | Spaceflight related news 🚀                 |   No     |  Yes  |
+|                          [The Guardian](http://open-platform.theguardian.com/)             | Access all the content the Guardian creates |   `yes`  |  Yes  |
+|                          [The Old Reader](https://github.com/theoldreader/api)             | 	RSS reader                                 |   `yes`  |  Yes  |
+|                       [Trove](https://trove.nla.gov.au/about/create-something/using-api)   | Search  the National Library of Australia   |   `yes`  |  Yes  |
+
+
+
+
+
+
+
+
