@@ -9,7 +9,7 @@ A collective list of free APIs for use in software and web development.
 
 
 
-### WEATHER 
+### WEATHER ⛈
 
 |                                            API                                             | Description                                 |   ApiKey | HTTPS |
 | :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
@@ -32,7 +32,7 @@ A collective list of free APIs for use in software and web development.
 
 
 
-### NEWS 
+### NEWS 🧾
 
 |                                            API                                             | Description                                 |   ApiKey | HTTPS |
 | :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
@@ -52,6 +52,21 @@ A collective list of free APIs for use in software and web development.
 |                          [The Guardian](http://open-platform.theguardian.com/)             | Access all the content the Guardian creates |   `yes`  |  Yes  |
 |                          [The Old Reader](https://github.com/theoldreader/api)             | 	RSS reader                                 |   `yes`  |  Yes  |
 |                       [Trove](https://trove.nla.gov.au/about/create-something/using-api)   | Search  the National Library of Australia   |   `yes`  |  Yes  |
+
+
+### Books📙 
+
+|                                            API                                             | Description                                 |   ApiKey | HTTPS |
+| :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
+|                  [ Google Books API](https://developers.google.com/books/docs/v1/libraries?hl=ar)                                                                                                    |access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions |  `yes`   |  Yes  |
+|                       [Open Library API](https://openlibrary.org/developers/api)                                                                                                                     |access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions|   No     |  Yes  |
+|                               [Bible-api](https://bible-api.com/)                          |Free Bible API with multiple languages       |   No     |  Yes  |
+|                          [British National Bibliography](http://bnb.data.bl.uk/)           | Books 📚                                    |   No     |  No   |
+|                       [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc) | Books & Articles Metadata                   |   No     |  Yes  |
+|                  [GurbaniNow](https://github.com/GurbaniNow/api)                           | Fast and Accurate Gurbani RESTful API       |   No     |  No   |
+|                                [Gutendex](https://gutendex.com/)                           | Web-API for fetching data from Project      |   No     |  Yes  |
+|              [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/)     | Books, book covers and related data         |   No     |  Yes  |
+|                  [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Get information from the Harry Potter       |   No     |  Yes  |
 
 
 
