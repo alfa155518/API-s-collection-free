@@ -75,29 +75,22 @@ A collective list of free APIs for use in software and web development.
 
 |                                            API                                             | Description                                 |   ApiKey | HTTPS |
 | :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
-|                  [Quran](https://quran.api-docs.io/)                                       | RESTful Quran API with multiple languages   |   No     |  Yes  |
-|                            [openWeathermap](https://openweathermap.org/)                    | A RESTful Quran API to retrieve an Ayah, Surah,Juz or the entire Holy Quran  
-                                                                               Surah,Juz or the entire Holy Quran                                                                                      |   No     |  Yes  |
-|                               [weatherapi](https://www.weatherapi.com/)                    | ultimate weather and geolocation API        |  `yes`   |  Yes  |
-|                             [Easiest Weather ](https://www.visualcrossing.com/weather-api) | The Easiest Weather API                     |  `yes`   |  Yes  |
-|                              [weather bit](https://www.weatherbit.io/api/weather-current)  | The High Performance Weather API            |  `yes`   |  Yes  |
-|                                 [7Timer](http://www.7timer.info/doc.php?lang=en)           | Weather, especially for Astroweather        |  `yes`   |  No   |
-|                                [AccuWeather](https://developer.accuweather.com/apis)       | Weather and forecast data                   |  `yes`   |  No   |
-|                               [Aemet](https://opendata.aemet.es/centrodedescargas/inicio)  | Weather and forecast data from Spain        |  `yes`   |  Yes  |
-|                      [weather stack](https://weatherstack.com/)                            | Real-Time & Historical World Weather Data   |  `yes`   |  No   |
-|                  [aviation weather](https://www.aviationweather.gov/dataserver)            | NOAA aviation weather forecasts             |   No     |  Yes  |
-|                [Euskalmet](https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/) | Meteorological data of the Basque Country   |  `yes`   |  Yes  |
-|                 [open-meteo](https://open-meteo.com/)                                      | Global weather forecast API                 |    No    |  Yes  |
-|                         [Tomorrow](https://docs.tomorrow.io/)                              |Weather API Powered by Proprietary Technology|   `yes`  |  Yes  |
-|                          [weather-api](https://github.com/robertoduessmann/weather-api)    | 	A RESTful free API to check the weather    |    No    |  Yes  |
-|                          [yandex](https://yandex.com/dev/weather/)                         | Assesses weather condition                  |   `yes`  |  Yes  |
-|                            [HG Weather](https://hgbrasil.com/status/weather)               | Provides weather data for cities in Brazil  |   `yes`  |  Yes  |
-
-
-
-
-
-
+|                  [Quran](https://quran.api-docs.io/)                                       | RESTful Quran API with multiple languages   |    No    |  Yes  |
+|                            [Quran Cloud](https://alquran.cloud/api)                        |  A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran        |    No    |  Yes  |
+|                               [News APi](https://newsapi.org/)                             |search for over 30,000 news sources and blogs|  `yes`   |  Yes  |
+|                          [apilayer mediastack](https://mediastack.com/)                    |Simple REST API for Live News & Blog Articles|  `yes`   |  Yes  |
+|                              [Associated Press](https://developer.ap.org/)                 | Search for news and metadata from Associated|  `yes`   |  Yes  |
+|                  [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)       | access to millions of pages of historic US  |   No     |  No   |
+|                                [currents](https://currentsapi.services/)                   |Latest news published in various news sources|  `yes`   |  No   |
+|                               [Gnews](https://gnews.io/)                                   | Search for news from various sources        |  `yes`   |  Yes  |
+|                      [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt)     | Each Country separately and Worldwide       |   No     |  No   |
+|                  [Inshorts News](https://github.com/cyberboysumanjay/Inshorts-News-API)    | Provides news from inshorts                 |   No     |  Yes  |
+|                [MarketAux](https://www.marketaux.com/)                                     |Live stock market news with tagged tickers   |  `yes`   |  Yes  |
+|                 [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/)   | Get or Search Latest Breaking News          |  `yes`   |  Yes  |
+|                         [Spaceflight News](https://spaceflightnewsapi.net/)                | Spaceflight related news 🚀                 |   No     |  Yes  |
+|                          [The Guardian](http://open-platform.theguardian.com/)             | Access all the content the Guardian creates |   `yes`  |  Yes  |
+|                          [The Old Reader](https://github.com/theoldreader/api)             | 	RSS reader                                 |   `yes`  |  Yes  |
+|                       [Trove](https://trove.nla.gov.au/about/create-something/using-api)   | Search  the National Library of Australia   |   `yes`  |  Yes  |
 
 
 
