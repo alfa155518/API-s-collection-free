@@ -80,17 +80,8 @@ A collective list of free APIs for use in software and web development.
 |                   [Quran-api](https://github.com/fawazahmed0/quran-api#readme) |Free Quran API Service with 90+ different languages and 400+ translations|    No    |  Yes  |
 |                   [mp3quran](https://mp3quran.net/ar/api)                      |Get a list of all avalibale languages, with all sura,rewayah and reciters for each language|  No   |  Yes  |
 |           [quran.com API (latest)](https://api-docs.quran.com/docs/category/quran.com-api) | Documentation of Quran.com v4 API           |  No      |  Yes  |
-| [Interpretation of the Quran](http://api.quran-tafseer.com/ar/docs/)      |An interface for creating applications for interpreting the Holy Qur’an that allows software developers to use it without |compensation  |   No     |  No   |
-|                                [currents](https://currentsapi.services/)                   |Latest news published in various news sources|  `yes`   |  No   |
-|                               [Gnews](https://gnews.io/)                                   | Search for news from various sources        |  `yes`   |  Yes  |
-|                      [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt)     | Each Country separately and Worldwide       |   No     |  No   |
-|                  [Inshorts News](https://github.com/cyberboysumanjay/Inshorts-News-API)    | Provides news from inshorts                 |   No     |  Yes  |
-|                [MarketAux](https://www.marketaux.com/)                                     |Live stock market news with tagged tickers   |  `yes`   |  Yes  |
-|                 [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/)   | Get or Search Latest Breaking News          |  `yes`   |  Yes  |
-|                         [Spaceflight News](https://spaceflightnewsapi.net/)                | Spaceflight related news 🚀                 |   No     |  Yes  |
-|                          [The Guardian](http://open-platform.theguardian.com/)             | Access all the content the Guardian creates |   `yes`  |  Yes  |
-|                          [The Old Reader](https://github.com/theoldreader/api)             | 	RSS reader                                 |   `yes`  |  Yes  |
-|                       [Trove](https://trove.nla.gov.au/about/create-something/using-api)   | Search  the National Library of Australia   |   `yes`  |  Yes  |
+| [Interpretation of the Quran](http://api.quran-tafseer.com/ar/docs/)      |An interface for creating applications for interpreting the Holy Qur’an that allows software developers | No | Yes |
+|               [quranapi](https://quranapi.pages.dev/docs)                 |Quran API is an open-source and free-to-use API to let people access the Quran|  No   |  No   |
 
 
 
