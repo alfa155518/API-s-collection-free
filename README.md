@@ -76,11 +76,11 @@ A collective list of free APIs for use in software and web development.
 |                                            API                                             | Description                                 |   ApiKey | HTTPS |
 | :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
 |                  [Quran](https://quran.api-docs.io/)                                       | RESTful Quran API with multiple languages   |    No    |  Yes  |
-|                            [Quran Cloud](https://alquran.cloud/api)                        |  A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran        |    No    |  Yes  |
-|                               [News APi](https://newsapi.org/)                             |search for over 30,000 news sources and blogs|  `yes`   |  Yes  |
-|                          [apilayer mediastack](https://mediastack.com/)                    |Simple REST API for Live News & Blog Articles|  `yes`   |  Yes  |
-|                              [Associated Press](https://developer.ap.org/)                 | Search for news and metadata from Associated|  `yes`   |  Yes  |
-|                  [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)       | access to millions of pages of historic US  |   No     |  No   |
+|                  [Quran Cloud](https://alquran.cloud/api)                      |A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran        |    No    |  Yes  |
+|                   [Quran-api](https://github.com/fawazahmed0/quran-api#readme) |Free Quran API Service with 90+ different languages and 400+ translations|    No    |  Yes  |
+|                   [mp3quran](https://mp3quran.net/ar/api)                      |Get a list of all avalibale languages, with all sura,rewayah and reciters for each language|  No   |  Yes  |
+|           [quran.com API (latest)](https://api-docs.quran.com/docs/category/quran.com-api) | Documentation of Quran.com v4 API           |  No      |  Yes  |
+| [Interpretation of the Quran](http://api.quran-tafseer.com/ar/docs/)      |An interface for creating applications for interpreting the Holy Qur’an that allows software developers to use it without |compensation  |   No     |  No   |
 |                                [currents](https://currentsapi.services/)                   |Latest news published in various news sources|  `yes`   |  No   |
 |                               [Gnews](https://gnews.io/)                                   | Search for news from various sources        |  `yes`   |  Yes  |
 |                      [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt)     | Each Country separately and Worldwide       |   No     |  No   |
