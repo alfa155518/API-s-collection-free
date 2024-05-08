@@ -53,37 +53,33 @@ A collective list of free APIs for use in software and web development.
 |                          [The Old Reader](https://github.com/theoldreader/api)             | 	RSS reader                                 |   `yes`  |  Yes  |
 |                       [Trove](https://trove.nla.gov.au/about/create-something/using-api)   | Search  the National Library of Australia   |   `yes`  |  Yes  |
 
+### Books📙
 
-### Books📙 
-
-|                                            API                                             | Description                                 |   ApiKey | HTTPS |
-| :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
-|                  [ Google Books API](https://developers.google.com/books/docs/v1/libraries?hl=ar)                                                                                                    |access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions |  `yes`   |  Yes  |
-|                       [Open Library API](https://openlibrary.org/developers/api)                                                                                                                     |access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions|   No     |  Yes  |
-|                               [Bible-api](https://bible-api.com/)                          |Free Bible API with multiple languages       |   No     |  Yes  |
-|                          [British National Bibliography](http://bnb.data.bl.uk/)           | Books 📚                                    |   No     |  No   |
-|                       [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc) | Books & Articles Metadata                   |   No     |  Yes  |
-|                  [GurbaniNow](https://github.com/GurbaniNow/api)                           | Fast and Accurate Gurbani RESTful API       |   No     |  No   |
-|                                [Gutendex](https://gutendex.com/)                           | Web-API for fetching data from Project      |   No     |  Yes  |
-|              [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/)     | Books, book covers and related data         |   No     |  Yes  |
-|                  [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Get information from the Harry Potter       |   No     |  Yes  |
-
+|                                       API                                        | Description                                                                                                                                | ApiKey | HTTPS |
+| :------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------ | :----: | :---: |
+| [ Google Books API](https://developers.google.com/books/docs/v1/libraries?hl=ar) | access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions | `yes`  |  Yes  |
+|            [Open Library API](https://openlibrary.org/developers/api)            | access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions |   No   |  Yes  |
+|                       [Bible-api](https://bible-api.com/)                        | Free Bible API with multiple languages                                                                                                     |   No   |  Yes  |
+|             [British National Bibliography](http://bnb.data.bl.uk/)              | Books 📚                                                                                                                                   |   No   |  No   |
+|       [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc)       | Books & Articles Metadata                                                                                                                  |   No   |  Yes  |
+|                 [GurbaniNow](https://github.com/GurbaniNow/api)                  | Fast and Accurate Gurbani RESTful API                                                                                                      |   No   |  No   |
+|                        [Gutendex](https://gutendex.com/)                         | Web-API for fetching data from Project                                                                                                     |   No   |  Yes  |
+|    [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/)     | Books, book covers and related data                                                                                                        |   No   |  Yes  |
+|    [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html)     | Get information from the Harry Potter                                                                                                      |   No   |  Yes  |
 
 
 
-### Quran 
+### Quran
 
-|                                            API                                             | Description                                 |   ApiKey | HTTPS |
-| :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
-|                  [Quran](https://quran.api-docs.io/)                                       | RESTful Quran API with multiple languages   |    No    |  Yes  |
-|                  [Quran Cloud](https://alquran.cloud/api)                      |A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran        |    No    |  Yes  |
-|                   [Quran-api](https://github.com/fawazahmed0/quran-api#readme) |Free Quran API Service with 90+ different languages and 400+ translations|    No    |  Yes  |
-|                   [mp3quran](https://mp3quran.net/ar/api)                      |Get a list of all avalibale languages, with all sura,rewayah and reciters for each language|  No   |  Yes  |
-|           [quran.com API (latest)](https://api-docs.quran.com/docs/category/quran.com-api) | Documentation of Quran.com v4 API           |  No      |  Yes  |
-| [Interpretation of the Quran](http://api.quran-tafseer.com/ar/docs/)      |An interface for creating applications for interpreting the Holy Qur’an that allows software developers | No | Yes |
-|               [quranapi](https://quranapi.pages.dev/docs)                 |Quran API is an open-source and free-to-use API to let people access the Quran|  No   |  No   |
-
-
+|                                       API                                        | Description                                                                                             | ApiKey | HTTPS |
+| :------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- | :----: | :---: |
+|                       [Quran](https://quran.api-docs.io/)                        | RESTful Quran API with multiple languages                                                               |   No   |  Yes  |
+|                     [Quran Cloud](https://alquran.cloud/api)                     | A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran                            |   No   |  Yes  |
+|           [Quran-api](https://github.com/fawazahmed0/quran-api#readme)           | Free Quran API Service with 90+ different languages and 400+ translations                               |   No   |  Yes  |
+|                     [mp3quran](https://mp3quran.net/ar/api)                      | Get a list of all avalibale languages, with all sura,rewayah and reciters for each language             |   No   |  Yes  |
+| [quran.com API (latest)](https://api-docs.quran.com/docs/category/quran.com-api) | Documentation of Quran.com v4 API                                                                       |   No   |  Yes  |
+|       [Interpretation of the Quran](http://api.quran-tafseer.com/ar/docs/)       | An interface for creating applications for interpreting the Holy Qur’an that allows software developers |   No   |  Yes  |
+|                   [quranapi](https://quranapi.pages.dev/docs)                    | Quran API is an open-source and free-to-use API to let people access the Quran                          |   No   |  No   |
 
 
 
