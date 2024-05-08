@@ -83,7 +83,13 @@ A collective list of free APIs for use in software and web development.
 
 
 
+### MOVIE 🎥
 
-
-
-
+|                                                                 API                                                                 | Description                                                                                                                                                             | ApiKey | HTTPS |
+| :---------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :---: |
+|                       [The Movie Database (TMDb) API](https://developer.themoviedb.org/docs/getting-started)                        | Movie Database (TMDB) API. This is where you will find the definitive list of currently available methods for our movie, tv, actor and image API,                       | `yes`  |  Yes  |
+|                                               [IMDb API](https://developer.imdb.com/)                                               | License IMDb Metadata                                                                                                                                                   | `yes`  |  Yes  |
+|                                   [rapidapi](https://rapidapi.com/collection/rotten-tomatoes-api)                                   | Discover the best list of alternative premium and free Rotten Tomatoes APIs.                                                                                            | `yes`  |  Yes  |
+|                                                 [Move ai](https://www.move.ai/api)                                                  | BRING MOVEMENT INTO                                                                                                                                                     |
+|                                                         YOUR DIGITAL WORLD                                                          | NO                                                                                                                                                                      |  Yes   |
+| [move api](https://docs.oracle.com/en/cloud/paas/content-cloud/rest-api-documents/op-documents-api-1.2-files-fileid-move-post.html) | Move a specified file and its versions to a specified destination folder. The moved file retains its globally unique identifier and all date and ownership information. |   NO   |  Yes  |
