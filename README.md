@@ -96,3 +96,31 @@ A collective list of free APIs for use in software and web development.
 
 
 
+
+### Meals and Drink 😋🍲
+
+|                                    API                                     | Description                                                       | ApiKey | HTTPS |
+| :------------------------------------------------------------------------: | ----------------------------------------------------------------- | :----: | :---: |
+|              [The MealDB](https://www.themealdb.com/api.php)               | This API provides access to information about food and beverages. |   No   |  Yes  |
+|            [spoonacular](https://spoonacular.com/food-api/docs)            | This API provides access to information about food and beverages. |   No   |  Yes  |
+|           [thecocktaildb](https://www.thecocktaildb.com/api.php)           | is an API that specializes in drinks and cocktails 🍹             |   No   |  Yes  |
+|                  [BaconMockup](https://baconmockup.com/)                   | Resizable bacon placeholder images                                |   No   |  Yes  |
+|                    [Chomp](https://chompthis.com/api/)                     | Data about various grocery products and foods                     | `yes`  |  Yes  |
+|                 [Coffee](https://coffee.alexflipnote.dev/)                 | Random pictures of coffee ☕                                      |   No   |  Yes  |
+| [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis                                                | `yes`  |  Yes  |
+|           [Foodish](https://github.com/surhud004/Foodish#readme)           | Random pictures of food dishes 🍽                                  |   No   |  Yes  |
+|                 [Fruityvice ](https://www.fruityvice.com/)                 | Data about all kinds of fruit 🍐                                  |   No   |  Yes  |
+|              [Kroger](https://developer.kroger.com/reference)              | Supermarket Data 🥃                                               | `Yes`  |  Yes  |
+|          [Open Food Facts](https://world.openfoodfacts.org/data)           | Food Products Database 🥃                                         |   No   |  Yes  |
+|             [TacoFancy](https://github.com/evz/tacofancy-api)              | Community-driven taco database 🥫                                 |   No   |  No   |
+|           [TheCocktailDB](https://www.thecocktaildb.com/api.php)           | Cocktail Recipes 🍩                                               | `Yes`  |  Yes  |
+|               [TheMealDB](https://www.themealdb.com/api.php)               | Meal Recipes                                                      | `yes`  |  Yes  |
+|          [What's on the menu?](http://nypl.github.io/menus-api/)           | NYPL human-transcribed historical menu collection                 | `yes`  |  No   |
+|                    [Zestful](https://zestfuldata.com/)                     | Parse recipe ingredients 🥣                                       | `yes`  |  Yes  |
+
+
+
+
+
+
+
