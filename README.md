@@ -122,5 +122,17 @@ A collective list of free APIs for use in software and web development.
 
 
 
+### Shopping 🛒
+
+|                                  API                                  | Description                                                                 | ApiKey | HTTPS |
+| :-------------------------------------------------------------------: | --------------------------------------------------------------------------- | :----: | :---: |
+| [WooCommerce](https://woocommerce.com/document/woocommerce-rest-api/) | allow you to manage product catalogs, process orders, and payments 🛍        | `Yes`  |  Yes  |
+| [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce  | `Yes`  |  Yes  |
+|      [Dummy Products](https://dummyproducts-api.herokuapp.com/)       | An api to fetch dummy e-commerce products JSON data with placeholder images | `Yes`  |  Yes  |
+|             [Lazada](https://open.lazada.com/doc/doc.htm)             | Retrieve product ratings and seller performance metrics 🛒                  | `Yes`  |  Yes  |
+| [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es)  | Manage sales, ads, products, services and Shops 🛒                          | `yes`  |  Yes  |
+|           [Octopart](https://octopart.com/api/v4/reference)           | Electronic part data for manufacturing, design, and sourcing                |   No   |  Yes  |
+|        [OLX Poland](https://developer.olx.pl/api/doc#section/)        | Integrate with local sites by posting, managing adverts and communicating   | `yes`  |  Yes  |
+|         [Shopee](https://open.shopee.com/documents?version=1)         | Shopee's official API for integration of various services from Shopee       | `Yes`  |  Yes  |
 
 
