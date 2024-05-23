@@ -159,3 +159,28 @@ A collective list of free APIs for use in software and web development.
 |            [RandomFox](https://randomfox.ca/floof/)             | Random pictures of foxes                                        |   No   |  Yes  |
 |      [Zoo Animals](https://zoo-animal-api.herokuapp.com/)       | Facts and pictures of zoo animals                               |   No   |  Yes  |
 
+
+
+
+
+### Sports & Fitness ⚽🏅🏋
+
+|                                           API                                            | Description                                                                                         | ApiKey | HTTPS |
+| :--------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :----: | :---: |
+| [sportradar](https://developer.sportradar.com/getting-started/docs/coverage-information) | Sportradar Coverage                                                                                 | `yes`  |  Yes  |
+|                             [sports](https://api-sports.io/)                             | Rest full API For All Sports Data                                                                   | `yse`  |  Yes  |
+|                            [ApiMedic](https://apimedic.com/)                             | ApiMedic offers a medical symptom checker API primarily for patients                                | `yes`  |  Yes  |
+|                        [balldontlie](https://www.balldontlie.io/)                        | Balldontlie provides access to stats data from the NBA                                              |   No   |  Yes  |
+|                   [Canadian Football League (CFL)](http://api.cfl.ca/)                   | Official JSON API providing real-time league, team and player statistics about the CFL              | `yes`  |  Yes  |
+|                         [City Bikes](https://api.citybik.es/v2/)                         | City Bikes around the world                                                                         |   No   |  No   |
+|                        [cloudbet](https://www.cloudbet.com/api/)                         | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | `yes`  |  No   |
+|               [CollegeFootballData.com](https://collegefootballdata.com/)                | Unofficial detailed American college football statistics, records, and results API                  | `yes`  |  Yes  |
+|                           [Ergast F1](http://ergast.com/mrd/)                            | F1 data from the beginning of the world championships in 1950                                       |   No   |  No   |
+|             [Football (Soccer) Videos](https://www.scorebat.com/video-api/)              | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more         |   No   |  Yes  |
+|                     [JCDecaux Bike](https://developer.jcdecaux.com/)                     | JCDecaux's self-service bicycles                                                                    | `yes`  |  Yes  |
+|                         [Sport Data](https://sportdataapi.com/)                          | Get sports data from all over the world                                                             |   No   |  Yes  |
+|          [Sport List & Data](https://developers.decathlon.com/products/sports)           | List of and resources related to sports                                                             |   No   |  Yes  |
+|          [sport places](https://developers.decathlon.com/products/sport-places)          | Crowd-source sports places around the world                                                         | `yes`  |  Yes  |
+|                [Sportmonks Cricket](https://docs.sportmonks.com/cricket/)                | Live cricket score, player statistics and fantasy API                                               | `yes`  |  Yes  |
+|                    [theSportDB](https://www.thesportsdb.com/api.php)                     | Crowd-Sourced Sports Data and Artwork                                                               | `yes`  |  Yes  |
+
