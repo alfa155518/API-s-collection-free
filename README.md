@@ -136,3 +136,26 @@ A collective list of free APIs for use in software and web development.
 |         [Shopee](https://open.shopee.com/documents?version=1)         | Shopee's official API for integration of various services from Shopee       | `Yes`  |  Yes  |
 
 
+
+
+### ANIMALS 🐕🐦🐱
+
+|                               API                               | Description                                                     | ApiKey | HTTPS |
+| :-------------------------------------------------------------: | --------------------------------------------------------------- | :----: | :---: |
+|                [Dog API](https://thedogapi.com/)                | The Dog API Dogs as a service                                   |   No   |  Yes  |
+|               [dog API](https://dog.ceo/dog-api/)               | The internet's biggest collection of open source dog pictures.  |   No   |  Yes  |
+|         [AdoptAPet](https://theaxolotlapi.netlify.app/)         | Resource to help get pets adopted                               | `yes`  |  Yes  |
+|     [Axolotl ](https://www.visualcrossing.com/weather-api)      | Collection of axolotl pictures and facts                        |   No   |  Yes  |
+|     [cat facts](https://alexwohlbruck.github.io/cat-facts/)     | Daily cat facts                                                 |   No   |  Yes  |
+|                  [cataas](https://cataas.com/)                  | Cat as a service (cats pictures and gifs)                       |   No   |  No   |
+|               [cats](https://docs.thecatapi.com/)               | Pictures of cats from Tumblr                                    | `yes`  |  No   |
+|      [Dog Facts](https://dukengn.github.io/Dog-facts-API/)      | Random dog facts                                                |   No   |  Yes  |
+|         [Dog Facts](https://kinduff.github.io/dog-api/)         | Random facts of Dogs                                            |   No   |  No   |
+|                [Dogs](https://dog.ceo/dog-api/)                 | Based on the Stanford Dogs Dataset                              |   No   |  Yes  |
+| [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Retrieve recent or notable birding observations within a region | `yes`  |  Yes  |
+|        [FishWatch](https://www.fishwatch.gov/developers)        | Information and pictures about individual fish species          |   No   |  Yes  |
+|             [PlaceKitten](https://placekitten.com/)             | Placeholder Kitten pictures                                     |   No   |  Yes  |
+|              [RandomDuck](https://random-d.uk/api)              | Random pictures of ducks                                        |   No   |  Yes  |
+|            [RandomFox](https://randomfox.ca/floof/)             | Random pictures of foxes                                        |   No   |  Yes  |
+|      [Zoo Animals](https://zoo-animal-api.herokuapp.com/)       | Facts and pictures of zoo animals                               |   No   |  Yes  |
+
