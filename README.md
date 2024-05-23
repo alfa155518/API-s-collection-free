@@ -7,6 +7,13 @@
 
 A collective list of free APIs for use in software and web development.
 
+<br>
+
+## Don't forget to contribute so we can make this repo get bigger and bigger day by day so we can help anyone apply my work to any API.
+
+
+<br>
+
 
 ### WEATHER ⛈
 
