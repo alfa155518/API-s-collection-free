@@ -184,3 +184,24 @@ A collective list of free APIs for use in software and web development.
 |                [Sportmonks Cricket](https://docs.sportmonks.com/cricket/)                | Live cricket score, player statistics and fantasy API                                               | `yes`  |  Yes  |
 |                    [theSportDB](https://www.thesportsdb.com/api.php)                     | Crowd-Sourced Sports Data and Artwork                                                               | `yes`  |  Yes  |
 
+
+
+
+
+### QUOTES 🙶
+
+|                                                API                                                 | Description                                                                      | ApiKey | HTTPS |
+| :------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------- | :----: | :---: |
+|                                 [zenquotes](https://zenquotes.io/)                                 | retrieve quotes and display them in your applications or websites                | `yes`  |  Yes  |
+|            [Some Breaking Bad quotes](https://github.com/shevabam/breaking-bad-quotes)             | Some Breaking Bad quotes                                                         |   No   |  Yes  |
+|                            [Dune](https://github.com/ywalia01/dune-api)                            | A simple API which provides you with book, character, movie and quotes JSON data |   No   |  Yes  |
+|                     [Game of Thrones Quotes](https://gameofthronesquotes.xyz/)                     | Some Game of Thrones quotes                                                      |   No   |  Yes  |
+|                  [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes)                   | Returns Lucifer quotes                                                           |   No   |  Yes  |
+|                   [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/)                    | Random Motivational Quotes                                                       |   No   |  No   |
+|                        [movie-quote](https://github.com/F4R4N/movie-quote/)                        | Random Movie and Series Quotes                                                   |   No   |  No   |
+| [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                                                       |   No   |  Yes  |
+|           [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes)           | Returns Stranger Things quotes                                                   |   No   |  No   |
+|                         [Stromberg Quotes](https://www.stromberg-api.de/)                          | Returns Stromberg quotes and more                                                |   No   |  Yes  |
+|         [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes)          | API generates various Web Series Quote Images                                    |   No   |  Yes  |
+
+
