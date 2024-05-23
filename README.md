@@ -206,8 +206,7 @@ A collective list of free APIs for use in software and web development.
 
 
 
-
-### 👨‍⚕️
+### Health 👨‍⚕️
 
 | API                                                                                                               | Description                                                                                        | APIkEY | HTTPS |
 | :---------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :----- | :---- |
@@ -241,4 +240,3 @@ A collective list of free APIs for use in software and web development.
 | [Open Disease](https://disease.sh/)                                                                               | API for Current cases and more stuff about COVID-19 and Influenza                                  | No     | Yes   |
 | [openFDA](https://open.fda.gov)                                                                                   | Public FDA data about drugs, devices and foods                                                     | `yes`  | Yes   |
 | [Quarantine](https://quarantine.country/coronavirus/api/)                                                         | Coronavirus API with free COVID-19 live updates                                                    | No     | Yes   |
-
