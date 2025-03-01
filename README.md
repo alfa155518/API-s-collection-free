@@ -1,248 +1,302 @@
-# Public API Lists
+# 🌐 100+ Free APIs for Developers in 2024 🚀
 
-[![Stars](https://img.shields.io/github/stars/alfa155518/API-s-collection-free?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/stargazers)
-[![Fork](https://img.shields.io/github/forks/alfa155518/API-s-collection-free?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/fork)
-[![Issues](https://img.shields.io/github/issues/alfa155518/API-s-collection-free?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/issues/new)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/alfa155518/API-s-collection-free/pulls)
+[![Stars](https://img.shields.io/github/stars/alfa155518/API-s-collection-free?style=for-the-badge&color=yellow)](https://github.com/alfa155518/API-s-collection-free/stargazers)
+[![Forks](https://img.shields.io/github/forks/alfa155518/API-s-collection-free?style=for-the-badge&color=blue)](https://github.com/alfa155518/API-s-collection-free/fork)
+[![Issues](https://img.shields.io/github/issues/alfa155518/API-s-collection-free?style=for-the-badge&color=red)](https://github.com/alfa155518/API-s-collection-free/issues/new)
 
-A collective list of free APIs for use in software and web development.
+Welcome to **API's Collection Free** – your ultimate open-source hub for **100+ free APIs**! Whether you're a developer crafting innovative apps, a startup seeking cost-effective solutions, or a business enhancing productivity, this collection offers powerful tools across every domain—from weather forecasts to movie insights, Quran verses to health data.
 
-<br>
+🌟 **Why Clients Love This Collection**
+- **Free & Diverse**: Access a wide range of APIs at no cost.
+- **Ready-to-Use**: Integrate seamlessly into your projects.
+- **Community-Powered**: Join developers worldwide to expand this resource!
 
-## Don't forget to contribute so we can make this repo get bigger and bigger day by day so we can help anyone apply my work to any API.
+---
 
+## ✨ Explore & Build
+- **For Developers**: Discover APIs to fuel your next big idea.
+- **For Clients**: Enhance your services with cutting-edge features.
+- **For Contributors**: Help us grow—add your favorite APIs! See [Contributing](#-contributing).
 
-<br>
+---
 
+## 📚 Table of Contents
+- [Public API Lists 🌍](#-public-api-lists)
+- [Weather ⛈](#-weather-)
+- [News 🧾](#-news-)
+- [Books 📙](#-books-)
+- [Quran](#-quran)
+- [Movies 🎥](#-movies-)
+- [Meals and Drinks 😋🍲](#-meals-and-drinks-)
+- [Shopping 🛒](#-shopping-)
+- [Animals 🐕🐦🐱](#-animals-)
+- [Sports & Fitness ⚽🏅🏋](#-sports--fitness-)
+- [Quotes 🙶](#-quotes-)
+- [Health 👨‍⚕️](#-health-)
+- [Contributing 🤝](#-contributing)
 
-### WEATHER ⛈
+---
 
-|                                            API                                             | Description                                 |   ApiKey | HTTPS |
-| :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
-|                  [wunder ground](https://www.wunderground.com/)                            | you incorporate real-time, historical,      |  `yes`   |  Yes  |
-|                            [openWeathermap](https://openweathermap.org/)                   | you incorporate real-time, historical,      |  `yes`   |  Yes  |
-|                               [weatherapi](https://www.weatherapi.com/)                    | ultimate weather and geolocation API        |  `yes`   |  Yes  |
-|                             [Easiest Weather ](https://www.visualcrossing.com/weather-api) | The Easiest Weather API                     |  `yes`   |  Yes  |
-|                              [weather bit](https://www.weatherbit.io/api/weather-current)  | The High Performance Weather API            |  `yes`   |  Yes  |
-|                                 [7Timer](http://www.7timer.info/doc.php?lang=en)           | Weather, especially for Astroweather        |  `yes`   |  No   |
-|                                [AccuWeather](https://developer.accuweather.com/apis)       | Weather and forecast data                   |  `yes`   |  No   |
-|                               [Aemet](https://opendata.aemet.es/centrodedescargas/inicio)  | Weather and forecast data from Spain        |  `yes`   |  Yes  |
-|                      [weather stack](https://weatherstack.com/)                            | Real-Time & Historical World Weather Data   |  `yes`   |  No   |
-|                  [aviation weather](https://www.aviationweather.gov/dataserver)            | NOAA aviation weather forecasts             |   No     |  Yes  |
-|                [Euskalmet](https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/) | Meteorological data of the Basque Country   |  `yes`   |  Yes  |
-|                 [open-meteo](https://open-meteo.com/)                                      | Global weather forecast API                 |    No    |  Yes  |
-|                         [Tomorrow](https://docs.tomorrow.io/)                              |Weather API Powered by Proprietary Technology|   `yes`  |  Yes  |
-|                          [weather-api](https://github.com/robertoduessmann/weather-api)    | 	A RESTful free API to check the weather    |    No    |  Yes  |
-|                          [yandex](https://yandex.com/dev/weather/)                         | Assesses weather condition                  |   `yes`  |  Yes  |
-|                            [HG Weather](https://hgbrasil.com/status/weather)               | Provides weather data for cities in Brazil  |   `yes`  |  Yes  |
+## 🌍 Public API Lists
+Unlock endless possibilities with these top API aggregators!
 
+| API Name                  | Description                              | Link                                      |
+|---------------------------|------------------------------------------|-------------------------------------------|
+| **Public APIs**           | 1,400+ categorized free APIs            | [Public APIs](https://github.com/public-apis/public-apis) |
+| **API List**              | Curated free and paid APIs              | [API List](https://apilist.fun)           |
+| **Any API**               | Hundreds of APIs with details           | [Any API](https://any-api.com)            |
+| **RapidAPI Hub**          | Free and premium API marketplace        | [RapidAPI](https://rapidapi.com/hub)      |
 
+---
 
-### NEWS 🧾
+## ⛈ Weather
+Bring real-time weather insights to your apps!
 
-|                                            API                                             | Description                                 |   ApiKey | HTTPS |
-| :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: |
-|                  [New York Times](https://developer.nytimes.com/apis)                      | getting the popular articles on NYTimes.com |  `yes`   |  Yes  |
-|                            [News API](https://newsapi.org/docs)                            |  live articles from all over the web        |  `yes`   |  Yes  |
-|                               [News APi](https://newsapi.org/)                             |search for over 30,000 news sources and blogs|  `yes`   |  Yes  |
-|                          [apilayer mediastack](https://mediastack.com/)                    |Simple REST API for Live News & Blog Articles|  `yes`   |  Yes  |
-|                              [Associated Press](https://developer.ap.org/)                 | Search for news and metadata from Associated|  `yes`   |  Yes  |
-|                  [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)       | access to millions of pages of historic US  |   No     |  No   |
-|                                [currents](https://currentsapi.services/)                   |Latest news published in various news sources|  `yes`   |  No   |
-|                               [Gnews](https://gnews.io/)                                   | Search for news from various sources        |  `yes`   |  Yes  |
-|                      [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt)     | Each Country separately and Worldwide       |   No     |  No   |
-|                  [Inshorts News](https://github.com/cyberboysumanjay/Inshorts-News-API)    | Provides news from inshorts                 |   No     |  Yes  |
-|                [MarketAux](https://www.marketaux.com/)                                     |Live stock market news with tagged tickers   |  `yes`   |  Yes  |
-|                 [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/)   | Get or Search Latest Breaking News          |  `yes`   |  Yes  |
-|                         [Spaceflight News](https://spaceflightnewsapi.net/)                | Spaceflight related news 🚀                 |   No     |  Yes  |
-|                          [The Guardian](http://open-platform.theguardian.com/)             | Access all the content the Guardian creates |   `yes`  |  Yes  |
-|                          [The Old Reader](https://github.com/theoldreader/api)             | 	RSS reader                                 |   `yes`  |  Yes  |
-|                       [Trove](https://trove.nla.gov.au/about/create-something/using-api)   | Search  the National Library of Australia   |   `yes`  |  Yes  |
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| Wunderground         | Real-time, historical weather        | Yes     | Yes   | [Wunderground](https://www.wunderground.com) |
+| OpenWeatherMap       | Real-time, historical weather        | Yes     | Yes   | [OpenWeatherMap](https://openweathermap.org) |
+| WeatherAPI           | Ultimate weather and geolocation API | Yes     | Yes   | [WeatherAPI](https://www.weatherapi.com) |
+| Easiest Weather      | The Easiest Weather API              | Yes     | Yes   | [Visual Crossing](https://www.visualcrossing.com/weather-api) |
+| Weatherbit           | High Performance Weather API         | Yes     | Yes   | [Weatherbit](https://www.weatherbit.io/api/weather-current) |
+| 7Timer               | Weather, especially for Astroweather | Yes     | No    | [7Timer](http://www.7timer.info/doc.php?lang=en) |
+| AccuWeather          | Weather and forecast data            | Yes     | No    | [AccuWeather](https://developer.accuweather.com/apis) |
+| Aemet                | Weather and forecast data from Spain | Yes     | Yes   | [Aemet](https://opendata.aemet.es/centrodedescargas/inicio) |
+| Weather Stack        | Real-Time & Historical World Weather | Yes     | No    | [Weather Stack](https://weatherstack.com) |
+| Aviation Weather     | NOAA aviation weather forecasts      | No      | Yes   | [Aviation Weather](https://www.aviationweather.gov/dataserver) |
+| Euskalmet            | Meteorological data of Basque Country| Yes     | Yes   | [Euskalmet](https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/) |
+| Open-Meteo           | Global weather forecast API          | No      | Yes   | [Open-Meteo](https://open-meteo.com) |
+| Tomorrow             | Powered by Proprietary Technology    | Yes     | Yes   | [Tomorrow](https://docs.tomorrow.io) |
+| Weather-API          | RESTful free API to check weather    | No      | Yes   | [Weather-API](https://github.com/robertoduessmann/weather-api) |
+| Yandex Weather       | Assesses weather conditions          | Yes     | Yes   | [Yandex](https://yandex.com/dev/weather) |
+| HG Weather           | Weather data for cities in Brazil    | Yes     | Yes   | [HG Weather](https://hgbrasil.com/status/weather) |
 
-### Books📙
+---
 
-|                                       API                                        | Description                                                                                                                                | ApiKey | HTTPS |
-| :------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------ | :----: | :---: |
-| [ Google Books API](https://developers.google.com/books/docs/v1/libraries?hl=ar) | access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions | `yes`  |  Yes  |
-|            [Open Library API](https://openlibrary.org/developers/api)            | access to data and information about books such as their titles, authors, genres, ISBNs, publication dates, cover images, and descriptions |   No   |  Yes  |
-|                       [Bible-api](https://bible-api.com/)                        | Free Bible API with multiple languages                                                                                                     |   No   |  Yes  |
-|             [British National Bibliography](http://bnb.data.bl.uk/)              | Books 📚                                                                                                                                   |   No   |  No   |
-|       [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc)       | Books & Articles Metadata                                                                                                                  |   No   |  Yes  |
-|                 [GurbaniNow](https://github.com/GurbaniNow/api)                  | Fast and Accurate Gurbani RESTful API                                                                                                      |   No   |  No   |
-|                        [Gutendex](https://gutendex.com/)                         | Web-API for fetching data from Project                                                                                                     |   No   |  Yes  |
-|    [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/)     | Books, book covers and related data                                                                                                        |   No   |  Yes  |
-|    [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html)     | Get information from the Harry Potter                                                                                                      |   No   |  Yes  |
+## 🧾 News
+Keep your users informed with global news APIs!
 
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| New York Times       | Popular articles on NYTimes.com      | Yes     | Yes   | [NYT](https://developer.nytimes.com/apis) |
+| News API (Docs)      | Live articles from all over the web  | Yes     | Yes   | [News API](https://newsapi.org/docs)  |
+| News API             | 30,000+ news sources and blogs       | Yes     | Yes   | [News API](https://newsapi.org)       |
+| Mediastack           | Live News & Blog Articles REST API   | Yes     | Yes   | [Mediastack](https://mediastack.com)  |
+| Associated Press     | News and metadata from Associated    | Yes     | Yes   | [AP](https://developer.ap.org)        |
+| Chronicling America  | Historic US newspaper pages          | No      | No    | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) |
+| Currents             | Latest news from various sources     | Yes     | No    | [Currents](https://currentsapi.services) |
+| GNews                | Search news from various sources     | Yes     | Yes   | [GNews](https://gnews.io)             |
+| Graphs for Coronavirus | Country-specific & worldwide data  | No      | No    | [Coronavirus Graphs](https://corona.dnsforfamily.com/api.txt) |
+| Inshorts News        | News from Inshorts                   | No      | Yes   | [Inshorts](https://github.com/cyberboysumanjay/Inshorts-News-API) |
+| MarketAux            | Live stock market news with tickers  | Yes     | Yes   | [MarketAux](https://www.marketaux.com) |
+| NewsX                | Latest breaking news                 | Yes     | Yes   | [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx) |
+| Spaceflight News     | Spaceflight-related news 🚀          | No      | Yes   | [Spaceflight News](https://spaceflightnewsapi.net) |
+| The Guardian         | All content from The Guardian        | Yes     | Yes   | [The Guardian](http://open-platform.theguardian.com) |
+| The Old Reader       | RSS reader                           | Yes     | Yes   | [The Old Reader](https://github.com/theoldreader/api) |
+| Trove                | National Library of Australia search | Yes     | Yes   | [Trove](https://trove.nla.gov.au/about/create-something/using-api) |
 
+---
 
-### Quran
+## 📙 Books
+Unlock a world of literature for your apps!
 
-|                                       API                                        | Description                                                                                             | ApiKey | HTTPS |
-| :------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- | :----: | :---: |
-|                       [Quran](https://quran.api-docs.io/)                        | RESTful Quran API with multiple languages                                                               |   No   |  Yes  |
-|                     [Quran Cloud](https://alquran.cloud/api)                     | A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran                            |   No   |  Yes  |
-|           [Quran-api](https://github.com/fawazahmed0/quran-api#readme)           | Free Quran API Service with 90+ different languages and 400+ translations                               |   No   |  Yes  |
-|                     [mp3quran](https://mp3quran.net/ar/api)                      | Get a list of all avalibale languages, with all sura,rewayah and reciters for each language             |   No   |  Yes  |
-| [quran.com API (latest)](https://api-docs.quran.com/docs/category/quran.com-api) | Documentation of Quran.com v4 API                                                                       |   No   |  Yes  |
-|       [Interpretation of the Quran](http://api.quran-tafseer.com/ar/docs/)       | An interface for creating applications for interpreting the Holy Qur’an that allows software developers |   No   |  Yes  |
-|                   [quranapi](https://quranapi.pages.dev/docs)                    | Quran API is an open-source and free-to-use API to let people access the Quran                          |   No   |  No   |
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| Google Books         | Titles, authors, genres, and more    | Yes     | Yes   | [Google Books](https://developers.google.com/books/docs/v1/libraries?hl=ar) |
+| Open Library         | Titles, authors, genres, and more    | No      | Yes   | [Open Library](https://openlibrary.org/developers/api) |
+| Bible API            | Free Bible with multiple languages   | No      | Yes   | [Bible API](https://bible-api.com)    |
+| British National Bibliography | Book metadata              | No      | No    | [BNB](http://bnb.data.bl.uk)          |
+| Crossref Metadata    | Books & articles metadata            | No      | Yes   | [Crossref](https://github.com/CrossRef/rest-api-doc) |
+| GurbaniNow           | Fast and Accurate Gurbani RESTful API| No      | No    | [GurbaniNow](https://github.com/GurbaniNow/api) |
+| Gutendex             | Web-API for Project Gutenberg data   | No      | Yes   | [Gutendex](https://gutendex.com)      |
+| Penguin Publishing   | Books, covers, and related data      | No      | Yes   | [Penguin](http://www.penguinrandomhouse.biz/webservices/rest) |
+| Wizard World         | Harry Potter info                    | No      | Yes   | [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) |
 
+---
 
-### MOVIE 🎥
+## Quran
+Enrich your projects with Quranic resources!
 
-|                                                                 API                                                                 | Description                                                                                                                                                             | ApiKey | HTTPS |
-| :---------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :---: |
-|                       [The Movie Database (TMDb) API](https://developer.themoviedb.org/docs/getting-started)                        | Movie Database (TMDB) API. This is where you will find the definitive list of currently available methods for our movie, tv, actor and image API,                       | `yes`  |  Yes  |
-|                                               [IMDb API](https://developer.imdb.com/)                                               | License IMDb Metadata                                                                                                                                                   | `yes`  |  Yes  |
-|                                   [rapidapi](https://rapidapi.com/collection/rotten-tomatoes-api)                                   | Discover the best list of alternative premium and free Rotten Tomatoes APIs.                                                                                            | `yes`  |  Yes  |
-|                                                                                                                                                                                                                                                                                          |
-|                                               [Move ai](https://www.move.ai/api)           | BRING MOVEMENT INTO                                    |                                                                                                                                                                         |   No   |  Yes  |
-| [move api](https://docs.oracle.com/en/cloud/paas/content-cloud/rest-api-documents/op-documents-api-1.2-files-fileid-move-post.html) | Move a specified file and its versions to a specified destination folder. The moved file retains its globally unique identifier and all date and ownership information. |   No   |  Yes  |
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| Quran                | RESTful Quran API with languages     | No      | Yes   | [Quran](https://quran.api-docs.io)    |
+| Quran Cloud          | Retrieve Ayah, Surah, Juz, or full Quran | No  | Yes   | [Quran Cloud](https://alquran.cloud/api) |
+| Quran API            | 90+ languages, 400+ translations     | No      | Yes   | [Quran API](https://github.com/fawazahmed0/quran-api#readme) |
+| MP3Quran             | Languages, suras, and reciters       | No      | Yes   | [MP3Quran](https://mp3quran.net/ar/api) |
+| Quran.com API        | Quran.com v4 API documentation       | No      | Yes   | [Quran.com](https://api-docs.quran.com/docs/category/quran.com-api) |
+| Interpretation       | Quran interpretation interface       | No      | Yes   | [Tafseer](http://api.quran-tafseer.com/ar/docs) |
+| QuranAPI             | Open-source Quran access             | No      | No    | [QuranAPI](https://quranapi.pages.dev/docs) |
 
+---
 
+## 🎥 Movies
+Bring cinematic magic to your applications!
 
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| TMDb                 | Movie, TV, actor, and image API      | Yes     | Yes   | [TMDb](https://developer.themoviedb.org/docs/getting-started) |
+| IMDb API             | Licensed IMDb metadata               | Yes     | Yes   | [IMDb](https://developer.imdb.com)    |
+| RapidAPI (Rotten Tomatoes) | Alternative Rotten Tomatoes data | Yes     | Yes   | [RapidAPI](https://rapidapi.com/collection/rotten-tomatoes-api) |
+| Move AI              | Bring movement into apps             | No      | Yes   | [Move AI](https://www.move.ai/api)    |
+| Move API             | File movement (Oracle)               | No      | Yes   | [Move API](https://docs.oracle.com/en/cloud/paas/content-cloud/rest-api-documents/op-documents-api-1.2-files-fileid-move-post.html) |
 
+---
 
-### Meals and Drink 😋🍲
+## 😋🍲 Meals and Drinks
+Delight users with food and drink APIs!
 
-|                                    API                                     | Description                                                       | ApiKey | HTTPS |
-| :------------------------------------------------------------------------: | ----------------------------------------------------------------- | :----: | :---: |
-|              [The MealDB](https://www.themealdb.com/api.php)               | This API provides access to information about food and beverages. |   No   |  Yes  |
-|            [spoonacular](https://spoonacular.com/food-api/docs)            | This API provides access to information about food and beverages. |   No   |  Yes  |
-|           [thecocktaildb](https://www.thecocktaildb.com/api.php)           | is an API that specializes in drinks and cocktails 🍹             |   No   |  Yes  |
-|                  [BaconMockup](https://baconmockup.com/)                   | Resizable bacon placeholder images                                |   No   |  Yes  |
-|                    [Chomp](https://chompthis.com/api/)                     | Data about various grocery products and foods                     | `yes`  |  Yes  |
-|                 [Coffee](https://coffee.alexflipnote.dev/)                 | Random pictures of coffee ☕                                      |   No   |  Yes  |
-| [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis                                                | `yes`  |  Yes  |
-|           [Foodish](https://github.com/surhud004/Foodish#readme)           | Random pictures of food dishes 🍽                                  |   No   |  Yes  |
-|                 [Fruityvice ](https://www.fruityvice.com/)                 | Data about all kinds of fruit 🍐                                  |   No   |  Yes  |
-|              [Kroger](https://developer.kroger.com/reference)              | Supermarket Data 🥃                                               | `Yes`  |  Yes  |
-|          [Open Food Facts](https://world.openfoodfacts.org/data)           | Food Products Database 🥃                                         |   No   |  Yes  |
-|             [TacoFancy](https://github.com/evz/tacofancy-api)              | Community-driven taco database 🥫                                 |   No   |  No   |
-|           [TheCocktailDB](https://www.thecocktaildb.com/api.php)           | Cocktail Recipes 🍩                                               | `Yes`  |  Yes  |
-|               [TheMealDB](https://www.themealdb.com/api.php)               | Meal Recipes                                                      | `yes`  |  Yes  |
-|          [What's on the menu?](http://nypl.github.io/menus-api/)           | NYPL human-transcribed historical menu collection                 | `yes`  |  No   |
-|                    [Zestful](https://zestfuldata.com/)                     | Parse recipe ingredients 🥣                                       | `yes`  |  Yes  |
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| The MealDB           | Food and beverage info               | No      | Yes   | [The MealDB](https://www.themealdb.com/api.php) |
+| Spoonacular          | Food and beverage info               | No      | Yes   | [Spoonacular](https://spoonacular.com/food-api/docs) |
+| The CocktailDB       | Drinks and cocktails                 | Yes     | Yes   | [The CocktailDB](https://www.thecocktaildb.com/api.php) |
+| BaconMockup          | Resizable bacon placeholder images   | No      | Yes   | [BaconMockup](https://baconmockup.com) |
+| Chomp                | Grocery products and foods           | Yes     | Yes   | [Chomp](https://chompthis.com/api)    |
+| Coffee               | Random coffee pictures               | No      | Yes   | [Coffee](https://coffee.alexflipnote.dev) |
+| Edamam Nutrition     | Nutrition analysis                   | Yes     | Yes   | [Edamam](https://developer.edamam.com/edamam-docs-nutrition-api) |
+| Foodish              | Random food dish pictures            | No      | Yes   | [Foodish](https://github.com/surhud004/Foodish#readme) |
+| Fruityvice           | Data about all kinds of fruit        | No      | Yes   | [Fruityvice](https://www.fruityvice.com) |
+| Kroger               | Supermarket data                     | Yes     | Yes   | [Kroger](https://developer.kroger.com/reference) |
+| Open Food Facts      | Food products database               | No      | Yes   | [Open Food Facts](https://world.openfoodfacts.org/data) |
+| TacoFancy            | Community-driven taco database       | No      | No    | [TacoFancy](https://github.com/evz/tacofancy-api) |
+| What’s on the Menu?  | NYPL historical menu collection      | Yes     | No    | [NYPL Menus](http://nypl.github.io/menus-api) |
+| Zestful              | Parse recipe ingredients             | Yes     | Yes   | [Zestful](https://zestfuldata.com)   |
 
+---
 
+## 🛒 Shopping
+Elevate e-commerce with these powerful APIs!
 
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| WooCommerce          | Manage catalogs, orders, payments    | Yes     | Yes   | [WooCommerce](https://woocommerce.com/document/woocommerce-rest-api) |
+| Best Buy             | Products, options, recommendations   | Yes     | Yes   | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) |
+| Dummy Products       | Dummy e-commerce JSON data           | Yes     | Yes   | [Dummy Products](https://dummyproducts-api.herokuapp.com) |
+| Lazada               | Product ratings and metrics          | Yes     | Yes   | [Lazada](https://open.lazada.com/doc/doc.htm) |
+| Mercadolibre         | Sales, ads, and shop management     | Yes     | Yes   | [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es) |
+| Octopart             | Electronic part data                 | No      | Yes   | [Octopart](https://octopart.com/api/v4/reference) |
+| OLX Poland           | Local site integration               | Yes     | Yes   | [OLX Poland](https://developer.olx.pl/api/doc#section) |
+| Shopee               | Shopee services integration          | Yes     | Yes   | [Shopee](https://open.shopee.com/documents?version=1) |
 
+---
 
-### Shopping 🛒
+## 🐕🐦🐱 Animals
+Add charm with animal-themed APIs!
 
-|                                  API                                  | Description                                                                 | ApiKey | HTTPS |
-| :-------------------------------------------------------------------: | --------------------------------------------------------------------------- | :----: | :---: |
-| [WooCommerce](https://woocommerce.com/document/woocommerce-rest-api/) | allow you to manage product catalogs, process orders, and payments 🛍        | `Yes`  |  Yes  |
-| [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce  | `Yes`  |  Yes  |
-|      [Dummy Products](https://dummyproducts-api.herokuapp.com/)       | An api to fetch dummy e-commerce products JSON data with placeholder images | `Yes`  |  Yes  |
-|             [Lazada](https://open.lazada.com/doc/doc.htm)             | Retrieve product ratings and seller performance metrics 🛒                  | `Yes`  |  Yes  |
-| [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es)  | Manage sales, ads, products, services and Shops 🛒                          | `yes`  |  Yes  |
-|           [Octopart](https://octopart.com/api/v4/reference)           | Electronic part data for manufacturing, design, and sourcing                |   No   |  Yes  |
-|        [OLX Poland](https://developer.olx.pl/api/doc#section/)        | Integrate with local sites by posting, managing adverts and communicating   | `yes`  |  Yes  |
-|         [Shopee](https://open.shopee.com/documents?version=1)         | Shopee's official API for integration of various services from Shopee       | `Yes`  |  Yes  |
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| Dog API              | Dogs as a service                    | No      | Yes   | [The Dog API](https://thedogapi.com)  |
+| Dog API (Dog.ceo)    | Open-source dog pictures             | No      | Yes   | [Dog API](https://dog.ceo/dog-api)    |
+| AdoptAPet            | Help pets get adopted                | Yes     | Yes   | [AdoptAPet](https://theaxolotlapi.netlify.app) |
+| Axolotl              | Axolotl pictures and facts           | No      | Yes   | [Axolotl](https://www.visualcrossing.com/weather-api) |
+| Cat Facts            | Daily cat facts                      | No      | Yes   | [Cat Facts](https://alexwohlbruck.github.io/cat-facts) |
+| Cataas               | Cat pictures and GIFs                | No      | No    | [Cataas](https://cataas.com)          |
+| Cats                 | Pictures of cats from Tumblr         | Yes     | No    | [Cats](https://docs.thecatapi.com)    |
+| Dog Facts (Dukengn)  | Random dog facts                     | No      | Yes   | [Dog Facts](https://dukengn.github.io/Dog-facts-API) |
+| Dog Facts (Kinduff)  | Random facts of Dogs                 | No      | No    | [Dog Facts](https://kinduff.github.io/dog-api) |
+| Dogs                 | Stanford Dogs Dataset                | No      | Yes   | [Dogs](https://dog.ceo/dog-api)       |
+| eBird                | Birding observations by region       | Yes     | Yes   | [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) |
+| FishWatch            | Fish species info and pictures       | No      | Yes   | [FishWatch](https://www.fishwatch.gov/developers) |
+| PlaceKitten          | Placeholder kitten pictures          | No      | Yes   | [PlaceKitten](https://placekitten.com) |
+| RandomDuck           | Random duck pictures                 | No      | Yes   | [RandomDuck](https://random-d.uk/api) |
+| RandomFox            | Random fox pictures                  | No      | Yes   | [RandomFox](https://randomfox.ca/floof) |
+| Zoo Animals          | Zoo animal facts and pictures        | No      | Yes   | [Zoo Animals](https://zoo-animal-api.herokuapp.com) |
 
+---
 
+## ⚽🏅🏋 Sports & Fitness
+Energize your apps with sports and fitness data!
 
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| Sportradar           | Sportradar Coverage                 | Yes     | Yes   | [Sportradar](https://developer.sportradar.com/getting-started/docs/coverage-information) |
+| API-Sports           | RESTful API for All Sports Data      | Yes     | Yes   | [API-Sports](https://api-sports.io)   |
+| ApiMedic             | Medical symptom checker for patients | Yes     | Yes   | [ApiMedic](https://apimedic.com)      |
+| balldontlie          | NBA stats and data                   | No      | Yes   | [balldontlie](https://www.balldontlie.io) |
+| CFL                  | Canadian Football League stats       | Yes     | Yes   | [CFL](http://api.cfl.ca)              |
+| City Bikes           | City bikes around the world          | No      | No    | [City Bikes](https://api.citybik.es/v2) |
+| Cloudbet             | Real-time sports odds and betting    | Yes     | No    | [Cloudbet](https://www.cloudbet.com/api) |
+| CollegeFootballData  | American college football stats      | Yes     | Yes   | [CollegeFootballData](https://collegefootballdata.com) |
+| Ergast F1            | F1 data since 1950                   | No      | No    | [Ergast F1](http://ergast.com/mrd)    |
+| Football Videos      | Soccer goals and highlights          | No      | Yes   | [Football Videos](https://www.scorebat.com/video-api) |
+| JCDecaux Bike        | Self-service bicycle data            | Yes     | Yes   | [JCDecaux](https://developer.jcdecaux.com) |
+| Sport Data           | Sports data from around the world    | No      | Yes   | [Sport Data](https://sportdataapi.com) |
+| Sport List & Data    | List of sports and resources         | No      | Yes   | [Sport List](https://developers.decathlon.com/products/sports) |
+| Sport Places         | Crowd-sourced sports places          | Yes     | Yes   | [Sport Places](https://developers.decathlon.com/products/sport-places) |
+| Sportmonks Cricket   | Live cricket scores and stats        | Yes     | Yes   | [Sportmonks](https://docs.sportmonks.com/cricket) |
+| TheSportsDB          | Crowd-sourced sports data            | Yes     | Yes   | [TheSportsDB](https://www.thesportsdb.com/api.php) |
 
-### ANIMALS 🐕🐦🐱
+---
 
-|                               API                               | Description                                                     | ApiKey | HTTPS |
-| :-------------------------------------------------------------: | --------------------------------------------------------------- | :----: | :---: |
-|                [Dog API](https://thedogapi.com/)                | The Dog API Dogs as a service                                   |   No   |  Yes  |
-|               [dog API](https://dog.ceo/dog-api/)               | The internet's biggest collection of open source dog pictures.  |   No   |  Yes  |
-|         [AdoptAPet](https://theaxolotlapi.netlify.app/)         | Resource to help get pets adopted                               | `yes`  |  Yes  |
-|     [Axolotl ](https://www.visualcrossing.com/weather-api)      | Collection of axolotl pictures and facts                        |   No   |  Yes  |
-|     [cat facts](https://alexwohlbruck.github.io/cat-facts/)     | Daily cat facts                                                 |   No   |  Yes  |
-|                  [cataas](https://cataas.com/)                  | Cat as a service (cats pictures and gifs)                       |   No   |  No   |
-|               [cats](https://docs.thecatapi.com/)               | Pictures of cats from Tumblr                                    | `yes`  |  No   |
-|      [Dog Facts](https://dukengn.github.io/Dog-facts-API/)      | Random dog facts                                                |   No   |  Yes  |
-|         [Dog Facts](https://kinduff.github.io/dog-api/)         | Random facts of Dogs                                            |   No   |  No   |
-|                [Dogs](https://dog.ceo/dog-api/)                 | Based on the Stanford Dogs Dataset                              |   No   |  Yes  |
-| [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Retrieve recent or notable birding observations within a region | `yes`  |  Yes  |
-|        [FishWatch](https://www.fishwatch.gov/developers)        | Information and pictures about individual fish species          |   No   |  Yes  |
-|             [PlaceKitten](https://placekitten.com/)             | Placeholder Kitten pictures                                     |   No   |  Yes  |
-|              [RandomDuck](https://random-d.uk/api)              | Random pictures of ducks                                        |   No   |  Yes  |
-|            [RandomFox](https://randomfox.ca/floof/)             | Random pictures of foxes                                        |   No   |  Yes  |
-|      [Zoo Animals](https://zoo-animal-api.herokuapp.com/)       | Facts and pictures of zoo animals                               |   No   |  Yes  |
+## 🙶 Quotes
+Inspire your audience with quote APIs!
 
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| ZenQuotes            | Retrieve quotes for apps/websites    | Yes     | Yes   | [ZenQuotes](https://zenquotes.io)     |
+| Breaking Bad Quotes  | Some Breaking Bad quotes             | No      | Yes   | [Breaking Bad](https://github.com/shevabam/breaking-bad-quotes) |
+| Dune                 | Book, character, movie quotes        | No      | Yes   | [Dune](https://github.com/ywalia01/dune-api) |
+| Game of Thrones      | Game of Thrones quotes               | No      | Yes   | [GoT Quotes](https://gameofthronesquotes.xyz) |
+| Lucifer Quotes       | Returns Lucifer quotes               | No      | Yes   | [Lucifer](https://github.com/shadowoff09/lucifer-quotes) |
+| Motivational Quotes  | Random motivational quotes           | No      | No    | [Motivational](https://nodejs-quoteapp.herokuapp.com) |
+| Movie-Quote          | Random movie and series quotes       | No      | No    | [Movie-Quote](https://github.com/F4R4N/movie-quote) |
+| Ron Swanson Quotes   | Television (Ron Swanson quotes)      | No      | Yes   | [Ron Swanson](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) |
+| Stranger Things      | Returns Stranger Things quotes       | No      | No    | [Stranger Things](https://github.com/shadowoff09/strangerthings-quotes) |
+| Stromberg Quotes     | Returns Stromberg quotes and more    | No      | Yes   | [Stromberg](https://www.stromberg-api.de) |
+| Web Series Quotes    | Web series quote images              | No      | Yes   | [Web Series](https://github.com/yogeshwaran01/web-series-quotes) |
 
+---
 
+## 👨‍⚕️ Health
+Empower health solutions with these APIs!
 
+| API Name             | Description                          | API Key | HTTPS | Link                                  |
+|----------------------|--------------------------------------|---------|-------|---------------------------------------|
+| CMS.gov              | Data from CMS - medicare.gov         | Yes     | Yes   | [CMS.gov](https://data.cms.gov/provider-data) |
+| Coronavirus          | Latest Covid-19 Data                 | No      | Yes   | [Coronavirus](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) |
+| Coronavirus UK       | UK Govt Covid-19 deaths and cases    | No      | Yes   | [Coronavirus UK](https://coronavirus.data.gov.uk/details/developers-guide) |
+| Covid Tracking       | Covid-19 data for the US             | No      | Yes   | [Covid Tracking](https://covidtracking.com/data/api/version-2) |
+| Covid-19             | Covid-19 spread, infection, recovery | No      | Yes   | [Covid-19](https://covid19api.com)    |
+| Covid-19 MM          | Cases, deaths, recovery per country  | No      | Yes   | [Covid-19 MM](https://github.com/M-Media-Group/Covid-19-API) |
+| Covid-19 Datenhub    | Maps, datasets for COVID-19          | No      | Yes   | [Datenhub](https://npgeo-corona-npgeo-de.hub.arcgis.com) |
+| Covid-19 Gov Response| Government measures tracker          | No      | Yes   | [Gov Response](https://covidtracker.bsg.ox.ac.uk) |
+| Covid-19 India       | India Covid-19 stats                 | No      | Yes   | [Covid-19 India](https://data.covid19india.org) |
+| Covid-19 JHU CSSE    | JHU CSSE Covid-19 data               | No      | Yes   | [JHU CSSE](https://nuttaphat.com/covid19-api) |
+| Covid-19 Live        | Global Covid-19 daily summary        | No      | Yes   | [Live Data](https://github.com/mathdroid/covid-19-api) |
+| Covid-19 Philippines | Philippines DOH Covid-19 data        | No      | Yes   | [Philippines](https://github.com/Simperfy/Covid-19-API-Philippines-DOH) |
+| COVID-19 Tracker CA  | Covid-19 cases across Canada         | No      | Yes   | [Tracker CA](https://api.covid19tracker.ca/docs/1.0/overview) |
+| COVID-19 Tracker SL  | Sri Lanka Covid-19 data              | No      | Yes   | [Tracker SL](https://www.hpb.health.gov.lk/en/api-documentation) |
+| COVID-ID             | Indonesian Covid data per province   | No      | Yes   | [COVID-ID](https://data.covid19.go.id/public/api/prov.json) |
+| Dataflow Kit COVID-19| Live Covid-19 stats per hour         | No      | Yes   | [Dataflow](https://covid-19.dataflowkit.com) |
+| FoodData Central     | National Nutrient Database           | Yes     | Yes   | [FoodData](https://fdc.nal.usda.gov)  |
+| Healthcare.gov       | US Health Insurance Marketplace      | No      | Yes   | [Healthcare](https://www.healthcare.gov/developers) |
+| Humanitarian Data    | Data across crises and organizations | No      | Yes   | [HDX](https://data.humdata.org)       |
+| Infermedica          | NLP symptom checker and triage       | Yes     | Yes   | [Infermedica](https://developer.infermedica.com/docs) |
+| LAPIS                | SARS-CoV-2 genomic sequences         | No      | Yes   | [LAPIS](https://cov-spectrum.ethz.ch/public) |
+| Lexigram             | NLP for clinical concepts            | Yes     | Yes   | [Lexigram](https://docs.lexigram.io)  |
+| Makeup               | Makeup information                   | No      | No    | [Makeup](http://makeup-api.herokuapp.com) |
+| MyVaccination        | Vaccination data for Malaysia        | No      | Yes   | [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) |
+| NPPES                | US healthcare provider info          | No      | Yes   | [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api) |
+| Nutritionix          | Largest verified nutrition database  | Yes     | Yes   | [Nutritionix](https://developer.nutritionix.com) |
+| Open Data NHS Scotland | Public Health Scotland data        | No      | Yes   | [NHS Scotland](https://www.opendata.nhs.scot) |
+| Open Disease         | COVID-19 and Influenza data          | No      | Yes   | [Open Disease](https://disease.sh)    |
+| openFDA              | FDA data on drugs, devices, foods    | Yes     | Yes   | [openFDA](https://open.fda.gov)       |
+| Quarantine           | Free COVID-19 live updates           | No      | Yes   | [Quarantine](https://quarantine.country/coronavirus/api) |
 
-### Sports & Fitness ⚽🏅🏋
+---
 
-|                                           API                                            | Description                                                                                         | ApiKey | HTTPS |
-| :--------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :----: | :---: |
-| [sportradar](https://developer.sportradar.com/getting-started/docs/coverage-information) | Sportradar Coverage                                                                                 | `yes`  |  Yes  |
-|                             [sports](https://api-sports.io/)                             | Rest full API For All Sports Data                                                                   | `yse`  |  Yes  |
-|                            [ApiMedic](https://apimedic.com/)                             | ApiMedic offers a medical symptom checker API primarily for patients                                | `yes`  |  Yes  |
-|                        [balldontlie](https://www.balldontlie.io/)                        | Balldontlie provides access to stats data from the NBA                                              |   No   |  Yes  |
-|                   [Canadian Football League (CFL)](http://api.cfl.ca/)                   | Official JSON API providing real-time league, team and player statistics about the CFL              | `yes`  |  Yes  |
-|                         [City Bikes](https://api.citybik.es/v2/)                         | City Bikes around the world                                                                         |   No   |  No   |
-|                        [cloudbet](https://www.cloudbet.com/api/)                         | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | `yes`  |  No   |
-|               [CollegeFootballData.com](https://collegefootballdata.com/)                | Unofficial detailed American college football statistics, records, and results API                  | `yes`  |  Yes  |
-|                           [Ergast F1](http://ergast.com/mrd/)                            | F1 data from the beginning of the world championships in 1950                                       |   No   |  No   |
-|             [Football (Soccer) Videos](https://www.scorebat.com/video-api/)              | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more         |   No   |  Yes  |
-|                     [JCDecaux Bike](https://developer.jcdecaux.com/)                     | JCDecaux's self-service bicycles                                                                    | `yes`  |  Yes  |
-|                         [Sport Data](https://sportdataapi.com/)                          | Get sports data from all over the world                                                             |   No   |  Yes  |
-|          [Sport List & Data](https://developers.decathlon.com/products/sports)           | List of and resources related to sports                                                             |   No   |  Yes  |
-|          [sport places](https://developers.decathlon.com/products/sport-places)          | Crowd-source sports places around the world                                                         | `yes`  |  Yes  |
-|                [Sportmonks Cricket](https://docs.sportmonks.com/cricket/)                | Live cricket score, player statistics and fantasy API                                               | `yes`  |  Yes  |
-|                    [theSportDB](https://www.thesportsdb.com/api.php)                     | Crowd-Sourced Sports Data and Artwork                                                               | `yes`  |  Yes  |
+## 🤝 Contributing
+Join the community and make this collection even better!
+- **Add an API**: Submit a PR with a new API in the table format.
+- **Fix Issues**: Report broken links or errors via issues.
+- **Star & Share**: Boost visibility—help others discover this resource!
 
+1. Fork the repo: [Fork Here](https://github.com/alfa155518/API-s-collection-free/fork)
+2. Add your API to the relevant section.
+3. Submit a PR with a clear description.
 
+Together, let’s create the ultimate API hub! 🌐
 
+---
 
-
-### QUOTES 🙶
-
-|                                                API                                                 | Description                                                                      | ApiKey | HTTPS |
-| :------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------- | :----: | :---: |
-|                                 [zenquotes](https://zenquotes.io/)                                 | retrieve quotes and display them in your applications or websites                | `yes`  |  Yes  |
-|            [Some Breaking Bad quotes](https://github.com/shevabam/breaking-bad-quotes)             | Some Breaking Bad quotes                                                         |   No   |  Yes  |
-|                            [Dune](https://github.com/ywalia01/dune-api)                            | A simple API which provides you with book, character, movie and quotes JSON data |   No   |  Yes  |
-|                     [Game of Thrones Quotes](https://gameofthronesquotes.xyz/)                     | Some Game of Thrones quotes                                                      |   No   |  Yes  |
-|                  [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes)                   | Returns Lucifer quotes                                                           |   No   |  Yes  |
-|                   [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/)                    | Random Motivational Quotes                                                       |   No   |  No   |
-|                        [movie-quote](https://github.com/F4R4N/movie-quote/)                        | Random Movie and Series Quotes                                                   |   No   |  No   |
-| [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                                                       |   No   |  Yes  |
-|           [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes)           | Returns Stranger Things quotes                                                   |   No   |  No   |
-|                         [Stromberg Quotes](https://www.stromberg-api.de/)                          | Returns Stromberg quotes and more                                                |   No   |  Yes  |
-|         [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes)          | API generates various Web Series Quote Images                                    |   No   |  Yes  |
-
-
-
-### Health 👨‍⚕️
-
-| API                                                                                                               | Description                                                                                        | APIkEY | HTTPS |
-| :---------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :----- | :---- |
-| [CMS.gov](https://data.cms.gov/provider-data/)                                                                    | Access to the data from the CMS - medicare.gov                                                     | `yes`  | Yes   |
-| [Coronavirus](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) | HTTP API for Latest Covid-19 Data                                                                  | No     | Yes   |
-| [Coronavirus in the UK](https://coronavirus.data.gov.uk/details/developers-guide)                                 | UK Government coronavirus data, including deaths and cases by region                               | No     | Yes   |
-| [Covid Tracking Project](https://covidtracking.com/data/api/version-2)                                            | Covid-19 data for the US                                                                           | No     | Yes   |
-| [Covid-19](https://covid19api.com/)                                                                               | Covid 19 spread, infection and recovery                                                            | No     | Yes   |
-| [Covid-19](https://github.com/M-Media-Group/Covid-19-API)                                                         | Covid 19 cases, deaths and recovery per country                                                    | No     | Yes   |
-| [Covid-19 Datenhub](https://npgeo-corona-npgeo-de.hub.arcgis.com)                                                 | Maps, datasets, applications and more in the context of COVID-19                                   | No     | Yes   |
-| [Covid-19 Government Response](https://covidtracker.bsg.ox.ac.uk)                                                 | Government measures tracker to fight against the Covid-19 pandemic                                 | No     | Yes   |
-| [Covid-19 India](https://data.covid19india.org/)                                                                  | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India       | No     | Yes   |
-| [Covid-19 JHU CSSE](https://nuttaphat.com/covid19-api/)                                                           | Open-source API for exploring Covid19 cases based on JHU CSSE                                      | No     | Yes   |
-| [Covid-19 Live Data](https://github.com/mathdroid/covid-19-api)                                                   | Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths       | No     | Yes   |
-| [Covid-19 Philippines](https://github.com/Simperfy/Covid-19-API-Philippines-DOH)                                  | Unofficial Covid-19 Web API for Philippines from data collected by DOH                             | No     | Yes   |
-| [COVID-19 Tracker Canada](https://api.covid19tracker.ca/docs/1.0/overview)                                        | Details on Covid-19 cases across Canada                                                            | No     | Yes   |
-| [COVID-19 Tracker Sri Lanka](https://www.hpb.health.gov.lk/en/api-documentation)                                  | Provides situation of the COVID-19 patients reported in Sri Lanka                                  | No     | Yes   |
-| [COVID-ID](https://data.covid19.go.id/public/api/prov.json)                                                       | Indonesian government Covid data per province                                                      | No     | Yes   |
-| [Dataflow Kit COVID-19](https://covid-19.dataflowkit.com)                                                         | COVID-19 live statistics into sites per hour                                                       | No     | Yes   |
-| [FoodData Central](https://fdc.nal.usda.gov/)                                                                     | National Nutrient Database for Standard Reference                                                  | ` yes` | Yes   |
-| [Healthcare.gov](https://www.healthcare.gov/developers/)                                                          | Educational content about the US Health Insurance Marketplace                                      | No     | Yes   |
-| [Humanitarian Data Exchange](https://data.humdata.org/)                                                           | Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations | No     | Yes   |
-| [Infermedica](https://developer.infermedica.com/docs/)                                                            | NLP based symptom checker and patient triage API for health diagnosis from text                    | `yes`  | Yes   |
-| [LAPIS](https://cov-spectrum.ethz.ch/public)                                                                      | SARS-CoV-2 genomic sequences from public sources                                                   | No     | Yes   |
-| [Lexigram](https://docs.lexigram.io/)                                                                             | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology       | `yes`  | Yes   |
-| [Makeup](http://makeup-api.herokuapp.com/)                                                                        | Makeup Information                                                                                 | No     | No    |
-| [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u)                                         | Vaccination data for Malaysia                                                                      | No     | Yes   |
-| [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api)                                                        | National Plan & Provider Enumeration System, info on healthcare providers registered in US         | No     | Yes   |
-| [Nutritionix](https://developer.nutritionix.com/)                                                                 | Worlds largest verified nutrition database                                                         | `yes`  | Yes   |
-| [Open Data NHS Scotland](https://www.opendata.nhs.scot)                                                           | Medical reference data and statistics by Public Health Scotland                                    | No     | Yes   |
-| [Open Disease](https://disease.sh/)                                                                               | API for Current cases and more stuff about COVID-19 and Influenza                                  | No     | Yes   |
-| [openFDA](https://open.fda.gov)                                                                                   | Public FDA data about drugs, devices and foods                                                     | `yes`  | Yes   |
-| [Quarantine](https://quarantine.country/coronavirus/api/)                                                         | Coronavirus API with free COVID-19 live updates                                                    | No     | Yes   |
+**#api #productivity #discuss #opensource**
