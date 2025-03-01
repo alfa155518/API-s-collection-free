@@ -1,4 +1,4 @@
-# 🌐 100+ Free APIs for Developers in 2024 🚀
+# 🌐 100+ Free APIs for Developers in 2025 🚀
 
 [![Stars](https://img.shields.io/github/stars/alfa155518/API-s-collection-free?style=for-the-badge&color=yellow)](https://github.com/alfa155518/API-s-collection-free/stargazers)
 [![Forks](https://img.shields.io/github/forks/alfa155518/API-s-collection-free?style=for-the-badge&color=blue)](https://github.com/alfa155518/API-s-collection-free/fork)
