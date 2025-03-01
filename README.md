@@ -33,6 +33,7 @@ Welcome to **API's Collection Free** – your ultimate open-source hub for **100
 - [Sports & Fitness ⚽🏅🏋](#-sports--fitness-)
 - [Quotes 🙶](#-quotes-)
 - [Health 👨‍⚕️](#-health-)
+- [Science 🔬](#-Science)
 - [Contributing 🤝](#-contributing)
 
 ---
@@ -284,6 +285,25 @@ Empower health solutions with these APIs!
 | Quarantine           | Free COVID-19 live updates           | No      | Yes   | [Quarantine](https://quarantine.country/coronavirus/api) |
 
 ---
+
+## 🔬 Science
+
+Explore the universe of scientific APIs, offering data and tools for research, discovery, and innovation—from the tiniest particles to the vastness of space.
+
+| API Name                     | Description                                                                                                                                                                                                                                                                                                                  | API Key | HTTPS | Link                                                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ---------------------------------------------------------------------------------- |
+| 🚀 SpaceX REST API           | Open Source REST API for launch, rocket, core, capsule, starlink, launchpad, and landing pad data.                                                                                                                                                                                                                           | No      | Yes   | [SpaceX REST API](https://github.com/r-spacex/SpaceX-API)                          |
+| 📐Math Function Parser       | This API provides functionalities to parse and resolve mathematical expressions. It includes endpoints to tokenize expressions, resolve them, and return their abstract syntax tree (AST).                                                                                                                                   | No      | Yes   | [Math Function Parser](https://math.oglimmer.com/swagger/ui)                       |
+| 🛰️Satellite TLE Data         | This API provides access to Two-Line Element (TLE) data for various satellites. It allows users to retrieve the latest orbital information for tracking satellites in real-time.                                                                                                                                             | No      | Yes   | [Satellite TLE Data](https://tle.ivanstanojevic.me/api/tle)                        |
+| 🌌 Close Approach Data       | This API provides current close-approach data for all asteroids and comets within JPL’s Small-Body Database. It allows users to obtain detailed information about near-Earth objects and their proximity to our planet based on various query parameters.                                                                    | No      | Yes   | [Close Approach Data](https://ssd-api.jpl.nasa.gov/doc/cad.html)                   |
+| 🚀 Launch Library 2          | The Launch Library 2 API provides access to a comprehensive database of rocket launches, space events, and astronauts. It serves both orbital and suborbital launches, offering data on launch service providers, events, agencies, and more, all accessible for free within certain request limits.                         | No      | Yes   | [Launch Library 2](https://thespacedevs.com/llapi)                                 |
+| 🌍 Earthquake Catalog API    | This API allows users to perform custom searches for earthquake information based on various parameters, such as location, time, and magnitude. It adheres to the FDSN Event Web Service Specifications, providing a structured way to access earthquake data.                                                               | No      | Yes   | [Earthquake Catalog API](https://earthquake.usgs.gov/fdsnws/event/1/)              |
+| 🚀 CelesTrak GP Data         | CelesTrak provides access to General Perturbations (GP) orbital data, including Two-Line Element Sets (TLEs) and newer formats like XML and JSON. This data is crucial for tracking objects in space and supports various queries to retrieve specific orbital information based on catalog numbers, designators, and names. | No      | Yes   | [CelesTrak GP Data](https://celestrak.org/NORAD/documentation/gp-data-formats.php) |
+| ➗ Newton API                | The Newton API is a micro-service that provides advanced math functionalities such as derivatives, integrals, simplifications, and more. Users can send requests with math expressions and receive results in JSON format, making it a powerful tool for mathematical computations.                                          | No      | Yes   | [Newton API](https://github.com/aunyks/newton-api)                                 |
+| 👵 Oldest People Records API | This API provides information about the oldest living person and the oldest person ever recorded. It manages local data, allowing updates and constraints such as birth date limits and country of origin.                                                                                                                   | No      | Yes   | [Oldest People Records API](https://whoistheoldest.com/)                           |
+
+---
+
 
 ## 🤝 Contributing
 Join the community and make this collection even better!
