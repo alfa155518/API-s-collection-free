@@ -35,6 +35,7 @@ Welcome to **API's Collection Free** – your ultimate open-source hub for **100
 - [Health 👨‍⚕️](#-health-)
 - [Science 🔬](#-Science)
 - [Transportation 🚂](#-Transportation)
+- [Entertainment 😊](#-Entertainment)
 - [Contributing 🤝](#-contributing)
 
 ---
@@ -329,6 +330,31 @@ APIs to keep your projects moving—on wheels, wings, or rails.
 
 ---
 
+## 😊 Entertainment
+Lights, camera, API! Your gateway to endless fun and amusement awaits. Dive into a world of movies, games, quotes, and more with these free entertainment APIs—perfect for developers and businesses looking to captivate users with engaging content!
+
+| API Name                       | Description                                                                                                                                             | API Key | HTTPS | Link                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ---------------------------------------------------------------------- |
+| 🚀 **Final Space API**          | An API based on the animated show *Final Space*, providing character info from the wiki in friendly JSON format.                                        | No      | Yes   | [Final Space API](https://finalspaceapi.com/docs/)                     |
+| 📺 **TVmaze API**               | Add TV schedules, show info, episodes, and cast details to your app or website with this fast and clean API.                                            | No      | Yes   | [TVmaze API](https://www.tvmaze.com/api)                               |
+| 🎮 **Valorant API**             | Access *Valorant* game data with this API—ideal for gaming enthusiasts and app developers.                                                              | No      | Yes   | [Valorant API](https://dash.valorant-api.com/)                         |
+| 🎌 **Shikimori API**            | Fetch anime, manga, character, and user data from the Shikimori platform using OAuth2 authentication—perfect for otaku projects!                        | No      | Yes   | [Shikimori API](https://shikimori.one/api/doc/1.0)                     |
+| 😈 **Evil Insult Generator**    | Generate humorous, malicious insults with customizable language and format (text, XML, JSON)—add some spicy fun to your app!                            | No      | Yes   | [Evil Insult Generator](https://evilinsult.com/api/)                   |
+| 🤣 **Chuck Norris Jokes API**   | Hand-curated Chuck Norris facts and jokes in JSON, with Slack and Messenger support—because who doesn’t love a good Chuck Norris quip?                  | No      | No    | [Chuck Norris Jokes API](https://api.chucknorris.io/)                  |
+| ⚡️ **Harry Potter API**         | Explore *Harry Potter* characters and spells with endpoints for all characters, specific IDs, Hogwarts students/staff, houses, and spells—magic awaits! | No      | Yes   | [Harry Potter API](https://hp-api.onrender.com/)                       |
+| 😏 **Insult API**               | Get creative, humorous insults in multiple languages (English, corporate jargon) with customizable templates—perfect for a witty comeback generator!    | No      | Yes   | [Insult API](https://insult.mattbas.org/api/)                          |
+| 🌟 **Keanu Whoa API**           | Every "whoa" said by Keanu Reeves in his movies, delivered in JSON—because Keanu deserves his own API!                                                  | No      | Yes   | [Keanu Whoa API](https://whoa.onrender.com/)                           |
+| 💡 **Unsolicited Advice API**   | A collection of unsolicited advice from Kevin Kelly, with endpoints for random, all, or specific advice by ID—wisdom at your fingertips!                | No      | Yes   | [Unsolicited Advice API](https://kk-advice.koyeb.app/api)              |
+| 🏰 **Game of Thrones Quotes**   | Quotes from *Game of Thrones* with random quotes, character-specific quotes, and house info—bring Westeros to your app!                                 | No      | Yes   | [Game of Thrones Quotes](https://gameofthronesquotes.xyz/)             |
+| 🖌️ **Quotes on Design API**     | Design-related quotes via WordPress REST API, offering randomized quotes in a simple format—ideal for creative inspiration!                             | No      | Yes   | [Quotes on Design API](https://quotesondesign.com/api/)                |
+| 🐉 **Dragon Ball API**          | Comprehensive *Dragon Ball* data on characters, transformations, power stats, planets, and locations—power up your app with Saiyan strength!            | No      | Yes   | [Dragon Ball API](https://web.dragonball-api.com/documentation)        |
+| 👽 **Rick and Morty API**       | Info on *Rick and Morty* characters, locations, and episodes, supporting REST and GraphQL—get schwifty with your next project!                          | No      | Yes   | [Rick and Morty API](https://rickandmortyapi.com/documentation/)       |
+| ☕ **Coffee API**               | Start your day with 1,257 coffee images, delivered randomly in JSON—perfect for a caffeine boost in your app!                                           | No      | Yes   | [Coffee API](https://coffee.alexflipnote.dev/)                         |
+| 🌌 **Star Wars API**            | Data from the *Star Wars* universe: planets, spaceships, vehicles, people, films, and species—may the Force be with your app!                           | No      | Yes   | [Star Wars API](https://swapi.dev)                                     |
+| 🏰 **Disney API**               | GET-only API for Disney character info with REST and GraphQL endpoints—no auth required, just pure Disney magic!                                        | No      | Yes   | [Disney API](https://disneyapi.dev/docs/)                              |
+| 🗡️ **Monster Hunter World API** | Detailed *Monster Hunter World* data on items, monsters, armor, skills, and events—hunt down the perfect API for your gaming project!                   | No      | Yes   | [Monster Hunter World API](https://docs.mhw-db.com/#accessing-the-api) |
+
+---
 
 
 
