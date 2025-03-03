@@ -40,18 +40,6 @@ Welcome to **API's Collection Free** – your ultimate open-source hub for **100
 
 ---
 
-## 🌍 Public API Lists
-Unlock endless possibilities with these top API aggregators!
-
-| API Name                  | Description                              | Link                                      |
-|---------------------------|------------------------------------------|-------------------------------------------|
-| **Public APIs**           | 1,400+ categorized free APIs            | [Public APIs](https://github.com/public-apis/public-apis) |
-| **API List**              | Curated free and paid APIs              | [API List](https://apilist.fun)           |
-| **Any API**               | Hundreds of APIs with details           | [Any API](https://any-api.com)            |
-| **RapidAPI Hub**          | Free and premium API marketplace        | [RapidAPI](https://rapidapi.com/hub)      |
-
----
-
 ## ⛈ Weather
 Bring real-time weather insights to your apps!
 
