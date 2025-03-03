@@ -21,7 +21,6 @@ Welcome to **API's Collection Free** – your ultimate open-source hub for **100
 ---
 
 ## 📚 Table of Contents
-- [Public API Lists 🌍](#-public-api-lists)
 - [Weather ⛈](#-weather-)
 - [News 🧾](#-news-)
 - [Books 📙](#-books-)
