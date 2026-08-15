@@ -49,7 +49,7 @@ Bring real-time weather insights to your apps!
 | WeatherAPI           | Ultimate weather and geolocation API | Yes     | Yes   | [WeatherAPI](https://www.weatherapi.com) |
 | Easiest Weather      | The Easiest Weather API              | Yes     | Yes   | [Visual Crossing](https://www.visualcrossing.com/weather-api) |
 | Weatherbit           | High Performance Weather API         | Yes     | Yes   | [Weatherbit](https://www.weatherbit.io/api/weather-current) |
-| 7Timer               | Weather, especially for Astroweather | Yes     | No    | [7Timer](http://www.7timer.info/doc.php?lang=en) |
+| 7Timer               | Weather, especially for Astroweather | Yes     | No    | [7Timer](https://www.7timer.info/doc.php?lang=en) |
 | AccuWeather          | Weather and forecast data            | Yes     | No    | [AccuWeather](https://developer.accuweather.com/apis) |
 | Aemet                | Weather and forecast data from Spain | Yes     | Yes   | [Aemet](https://opendata.aemet.es/centrodedescargas/inicio) |
 | Weather Stack        | Real-Time & Historical World Weather | Yes     | No    | [Weather Stack](https://weatherstack.com) |
@@ -84,6 +84,7 @@ Keep your users informed with global news APIs!
 | The Guardian         | All content from The Guardian        | Yes     | Yes   | [The Guardian](http://open-platform.theguardian.com) |
 | The Old Reader       | RSS reader                           | Yes     | Yes   | [The Old Reader](https://github.com/theoldreader/api) |
 | Trove                | National Library of Australia search | Yes     | Yes   | [Trove](https://trove.nla.gov.au/about/create-something/using-api) |
+| **Twitter** | Xquik | [github.com/Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. | Independent API; not affiliated with X Corp |
 
 ---
 
